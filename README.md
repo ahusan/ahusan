@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahusan
 - 👀 I’m interested in software engineering, dev ops
-- 🌱 I’m currently learning languages and multitude of dev ops tools
 - 📫 Currently working as a company to improve maldivian software platforms. 
 - 📫 Reach me at admin@ahusan.dev for projects
 <!---
