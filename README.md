@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m [@ahusan](https://ahusan.github.io/ "CV") 🧑🏾‍💻
 
 *I am a Software Developer & Dev Ops Engineer\
-[MNU](https://www.mnu.edu.mv/ "College website") graduate
+[MNU](https://www.mnu.edu.mv/ "College website") graduate with Bachelor's Degree in Computer Science
 and software developer since __2015__.*
 
 - 👀 I’m interested in software engineering and  dev ops Engineering.
