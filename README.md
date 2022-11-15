@@ -17,7 +17,7 @@ and software developer since __2015__.*
 
 ### Frameworks Platforms and Libraries
 
-`react.js`, `vue.js`, `laravel`, `express.js`, `tailwindcss`, `fast api`, `inertia.js`, `ASP .NET`
+`react.js`, `vue.js`, `laravel`, `express.js`, `tailwindcss`, `fast api`, `inertia.js`, `ASP .NET`, `Prime Flex`
 
 
 ### Design
