@@ -10,7 +10,7 @@ and software developer since __2015__.*
 - 📫 Reach me at __<projects@ahusan.dev>__ for projects.
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-orcin.vercel.app/api?username=ahusan&amp;show_icons=true&theme=aura" alt="GitHub Stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahusan&amp;show_icons=true&theme=aura" alt="GitHub Stats" width="450">
 </p>
 ## 👨🏾‍💻 My Stack 🖥️
 
