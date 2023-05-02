@@ -9,8 +9,9 @@ and software developer since __2015__.*
 - 🐧 Strong advocate for open source products.
 - 📫 Reach me at __<projects@ahusan.dev>__ for projects.
 
-[![Ahusan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahusan)](https://github.com/ahusan/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahusan&amp;show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450">
+</p>
 ## 👨🏾‍💻 My Stack 🖥️
 
 ### Languages
