@@ -10,9 +10,9 @@ and software developer since __2015__.*
 - 📫 Reach me at __<projects@ahusan.dev>__ for projects.
 
 <p align="center">
-  <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450">
-  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="450">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahusan&theme=aura" alt="Streak" width="450">
+  <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500">
+  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
+  <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
 </p>
 </p>
 
