@@ -49,6 +49,7 @@ and software developer since __2015__.*
 ![figma](https://shields.io/badge/-figma-111827?style=for-the-badge&logo=figma)
 ![portainer](https://shields.io/badge/-portainer-111827?style=for-the-badge&logo=portainer)
 ![Microsoft SQL Server](https://shields.io/badge/-Microsoft%20SQL%20Sever-111827?style=for-the-badge&logo=microsoft%20sql%20server)
+![Prisma ORM](https://shields.io/badge/-Prisma%20ORM-111827?style=for-the-badge&logo=prisma)
 ![tailwind css](https://shields.io/badge/-tailwind%20css-111827?style=for-the-badge&logo=tailwind-css)
 ![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
