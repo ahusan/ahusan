@@ -21,6 +21,7 @@ and software developer since __2015__.*
 ### Languages
 
 ![JavaScript](https://shields.io/badge/-javascript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://shields.io/badge/-typescript-111827?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/python-111827?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![php](https://shields.io/badge/-php-111827?style=for-the-badge&logo=php)
 ![Csharp](https://shields.io/badge/-Csharp-111827?style=for-the-badge&logo=c)
@@ -30,6 +31,7 @@ and software developer since __2015__.*
 ![express.js](https://shields.io/badge/-express.js-111827?style=for-the-badge&logo=express)
 ![laravel](https://shields.io/badge/-laravel-111827?style=for-the-badge&logo=laravel)
 ![Next.js](https://shields.io/badge/-Next-111827?style=for-the-badge&logo=next.js)
+![Remix.js](https://shields.io/badge/-RemixJS-111827?style=for-the-badge&logo=remix)
 ![Node.js](https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm.js](https://shields.io/badge/-npm-111827?style=for-the-badge&logo=npm)
 ![react.js](https://shields.io/badge/-react-111827?style=for-the-badge&logo=react)
