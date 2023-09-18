@@ -1,4 +1,4 @@
-dde## 👋 Hi, I’m [@ahusan](https://portfolio.ahusan.dev/ "CV") 🧑🏾‍💻
+👋 Hi, I’m [@ahusan](https://portfolio.ahusan.dev/ "CV") 🧑🏾‍💻
 
 *I am a Software Developer & Dev Ops Engineer\
 [MNU](https://www.mnu.edu.mv/ "College website") graduate with Bachelor's Degree in Computer Science
