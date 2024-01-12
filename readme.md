@@ -55,7 +55,7 @@ and software developer since __2015__.*
 ![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
 ![digital ocean](https://shields.io/badge/-digital%20ocean-111827?style=for-the-badge&logo=digitalocean)
 ![FastAPI](https://shields.io/badge/-fastapi-111827?style=for-the-badge&logo=fastapi)
-![Mantine](https://shields.io/badge/-mantine ui-111827?style=for-the-badge&logo=mantine)
+![Mantine](https://shields.io/badge/-mantineui-111827?style=for-the-badge&logo=mantine)
 ![Prisma ORM](https://shields.io/badge/-prisma-111827?style=for-the-badge&logo=prisma)
 ![Postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
 ![JWT](https://shields.io/badge/-jwt-111827?style=for-the-badge&logo=json-web-tokens)
