@@ -32,15 +32,24 @@ and software developer since __2015__.*
 ![laravel](https://shields.io/badge/-laravel-111827?style=for-the-badge&logo=laravel)
 ![Next.js](https://shields.io/badge/-Next-111827?style=for-the-badge&logo=next.js)
 ![Remix.js](https://shields.io/badge/-RemixJS-111827?style=for-the-badge&logo=remix)
-![Node.js](https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
-![npm.js](https://shields.io/badge/-npm-111827?style=for-the-badge&logo=npm)
+![FastAPI](https://shields.io/badge/-fastapi-111827?style=for-the-badge&logo=fastapi)
+
+
+### Libraries
 ![react.js](https://shields.io/badge/-react-111827?style=for-the-badge&logo=react)
 ![vue.js](https://shields.io/badge/-vue-111827?style=for-the-badge&logo=vue.js)
+![Prisma ORM](https://shields.io/badge/-Prisma%20ORM-111827?style=for-the-badge&logo=prisma)
+![tailwind css](https://shields.io/badge/-tailwind%20css-111827?style=for-the-badge&logo=tailwind-css)
+![bootstrap](https://shields.io/badge/-bootstrap-111827?style=for-the-badge&logo=bootstrap)
+
+### Tools
 
 
 ### Others
 ![docker](https://shields.io/badge/-docker-111827?style=for-the-badge&logo=docker)
 ![firebase](https://shields.io/badge/-firebase-111827?style=for-the-badge&logo=firebase)
+![Node.js](https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+![npm.js](https://shields.io/badge/-npm-111827?style=for-the-badge&logo=npm)
 ![github](https://shields.io/badge/-github-111827?style=for-the-badge&logo=github)
 ![git](https://shields.io/badge/-git-111827?style=for-the-badge&logo=git)
 ![bitbucket](https://shields.io/badge/-bitbucket-111827?style=for-the-badge&logo=bitbucket)
@@ -49,14 +58,10 @@ and software developer since __2015__.*
 ![figma](https://shields.io/badge/-figma-111827?style=for-the-badge&logo=figma)
 ![portainer](https://shields.io/badge/-portainer-111827?style=for-the-badge&logo=portainer)
 ![Microsoft SQL Server](https://shields.io/badge/-Microsoft%20SQL%20Sever-111827?style=for-the-badge&logo=microsoft%20sql%20server)
-![Prisma ORM](https://shields.io/badge/-Prisma%20ORM-111827?style=for-the-badge&logo=prisma)
-![tailwind css](https://shields.io/badge/-tailwind%20css-111827?style=for-the-badge&logo=tailwind-css)
 ![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
 ![digital ocean](https://shields.io/badge/-digital%20ocean-111827?style=for-the-badge&logo=digitalocean)
-![FastAPI](https://shields.io/badge/-fastapi-111827?style=for-the-badge&logo=fastapi)
 ![Mantine](https://shields.io/badge/-mantineui-111827?style=for-the-badge&logo=mantine)
-![Prisma ORM](https://shields.io/badge/-prisma-111827?style=for-the-badge&logo=prisma)
 ![Postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
 ![JWT](https://shields.io/badge/-jwt-111827?style=for-the-badge&logo=json-web-tokens)
 ![Ubuntu](https://shields.io/badge/-ubuntu-111827?style=for-the-badge&logo=ubuntu)
@@ -70,8 +75,6 @@ and software developer since __2015__.*
 ![html](https://shields.io/badge/-html-111827?style=for-the-badge&logo=html5)
 ![css](https://shields.io/badge/-css-111827?style=for-the-badge&logo=css3)
 ![sass](https://shields.io/badge/-sass-111827?style=for-the-badge&logo=sass)
-![bootstrap](https://shields.io/badge/-bootstrap-111827?style=for-the-badge&logo=bootstrap)
-![tailwind](https://shields.io/badge/-tailwind-111827?style=for-the-badge&logo=tailwind-css)
 
 
 ### Past Projects
