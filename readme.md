@@ -9,13 +9,6 @@ and software developer since __2015__.*
 - 🐧 Strong advocate for open source products.
 - 📫 Reach me at __<projects@ahusan.dev>__ for projects.
 
-<p align="center">
-  <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&rank_icon=percentile&count_private=true&hide=issues" alt="GitHub Stats" width="500">
-  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
-  <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
-</p>
-</p>
-
 ## 👨🏾‍💻 My Stack 🖥️
 
 ### Languages
@@ -41,40 +34,53 @@ and software developer since __2015__.*
 ![Prisma ORM](https://shields.io/badge/-Prisma%20ORM-111827?style=for-the-badge&logo=prisma)
 ![tailwind css](https://shields.io/badge/-tailwind%20css-111827?style=for-the-badge&logo=tailwind-css)
 ![bootstrap](https://shields.io/badge/-bootstrap-111827?style=for-the-badge&logo=bootstrap)
+![Mantine](https://shields.io/badge/-mantineui-111827?style=for-the-badge&logo=mantine)
 
 ### Tools
-
-
-### Others
 ![docker](https://shields.io/badge/-docker-111827?style=for-the-badge&logo=docker)
-![firebase](https://shields.io/badge/-firebase-111827?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
-![npm.js](https://shields.io/badge/-npm-111827?style=for-the-badge&logo=npm)
 ![github](https://shields.io/badge/-github-111827?style=for-the-badge&logo=github)
 ![git](https://shields.io/badge/-git-111827?style=for-the-badge&logo=git)
 ![bitbucket](https://shields.io/badge/-bitbucket-111827?style=for-the-badge&logo=bitbucket)
 ![github pages](https://shields.io/badge/-github%20pages-111827?style=for-the-badge&logo=github)
-![Google Cloud](https://shields.io/badge/-Google%20Cloud-111827?style=for-the-badge&logo=google-cloud)
+![Node.js](https://img.shields.io/badge/node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+![npm.js](https://shields.io/badge/-npm-111827?style=for-the-badge&logo=npm)
 ![figma](https://shields.io/badge/-figma-111827?style=for-the-badge&logo=figma)
 ![portainer](https://shields.io/badge/-portainer-111827?style=for-the-badge&logo=portainer)
-![Microsoft SQL Server](https://shields.io/badge/-Microsoft%20SQL%20Sever-111827?style=for-the-badge&logo=microsoft%20sql%20server)
+![Postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
+
+
+### Cloud
 ![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
+![Vercel](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
 ![digital ocean](https://shields.io/badge/-digital%20ocean-111827?style=for-the-badge&logo=digitalocean)
-![Mantine](https://shields.io/badge/-mantineui-111827?style=for-the-badge&logo=mantine)
-![Postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
+![Google Cloud](https://shields.io/badge/-Google%20Cloud-111827?style=for-the-badge&logo=google-cloud)
+
+### Database
+![firebase](https://shields.io/badge/-firebase-111827?style=for-the-badge&logo=firebase)
+![Microsoft SQL Server](https://shields.io/badge/-Microsoft%20SQL%20Sever-111827?style=for-the-badge&logo=microsoft%20sql%20server)
+![MySQL](https://shields.io/badge/-mysql-111827?style=for-the-badge&logo=mysql)
+![Postgres SQL](https://shields.io/badge/-postgres-111827?style=for-the-badge&logo=postgresql)
+![SQLite](https://shields.io/badge/-sqlite-111827?style=for-the-badge&logo=sqlite)
+
+### Others
 ![JWT](https://shields.io/badge/-jwt-111827?style=for-the-badge&logo=json-web-tokens)
 ![Ubuntu](https://shields.io/badge/-ubuntu-111827?style=for-the-badge&logo=ubuntu)
 ![Windows](https://shields.io/badge/-windows-111827?style=for-the-badge&logo=windows)
 ![Linux](https://shields.io/badge/-linux-111827?style=for-the-badge&logo=linux)
 ![Nginx](https://shields.io/badge/-nginx-111827?style=for-the-badge&logo=nginx)
-![MySQL](https://shields.io/badge/-mysql-111827?style=for-the-badge&logo=mysql)
-![Postgres SQL](https://shields.io/badge/-postgres-111827?style=for-the-badge&logo=postgresql)
-![SQLite](https://shields.io/badge/-sqlite-111827?style=for-the-badge&logo=sqlite)
 ![Wordpress](https://shields.io/badge/-wordpress-111827?style=for-the-badge&logo=wordpress)
 ![html](https://shields.io/badge/-html-111827?style=for-the-badge&logo=html5)
 ![css](https://shields.io/badge/-css-111827?style=for-the-badge&logo=css3)
 ![sass](https://shields.io/badge/-sass-111827?style=for-the-badge&logo=sass)
+
+### Github Stats
+
+<p align="center">
+  <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&rank_icon=percentile&count_private=true&hide=issues" alt="GitHub Stats" width="500">
+  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
+  <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
+</p>
 
 
 ### Past Projects
