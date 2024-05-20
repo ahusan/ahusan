@@ -52,7 +52,7 @@ and software developer since __2015__.*
 ### Cloud
 ![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
-![Vercel](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon)
+![Vercel](https://shields.io/badge/-Vercel-111827?style=for-the-badge&logo=vercel)
 ![digital ocean](https://shields.io/badge/-digital%20ocean-111827?style=for-the-badge&logo=digitalocean)
 ![Google Cloud](https://shields.io/badge/-Google%20Cloud-111827?style=for-the-badge&logo=google-cloud)
 
