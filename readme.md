@@ -10,7 +10,7 @@ and software developer since __2015__.*
 - 📫 Reach me at __<projects@ahusan.dev>__ for projects.
 
 ## 👨🏾‍💻 My Stack 🖥️
-<img src="https://wakatime.com/share/@ahusan/b4027d7a-41ab-4cc6-a3e1-5341101f9913.svg" alt="GitHub Stats" width="500">
+<img src="https://wakatime.com/share/@ahusan/b895b6ca-99d9-48d2-9506-5cb007a44637.svg" alt="Waka Stats">
 
 ### Languages
 
