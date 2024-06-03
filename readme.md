@@ -80,6 +80,7 @@ and software developer since __2015__.*
   <img src="https://wakatime.com/share/@ahusan/5ffa3fe3-0eb8-4023-8e0a-4ffcf36c377d.svg" alt="Waka Stats">
   <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&rank_icon=percentile&count_private=true&hide=issues" alt="GitHub Stats" width="500">
   <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
+  <img src="https://readme.ahusan.dev/api/wakatime?username=ahusan&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="WakApi Top Languages" width="500">
   <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
 </p>
 
