@@ -77,7 +77,7 @@ and software developer since __2015__.*
 ### Github Stats
 
 <p align="center">
-  <img src="https://wakatime.com/share/@ahusan/74440e54-1c44-421d-835c-132c1389c689.svg" alt="Waka Stats">
+  <img src="https://wakatime.com/share/@ahusan/5ffa3fe3-0eb8-4023-8e0a-4ffcf36c377d.svg" alt="Waka Stats">
   <img src="https://readme.ahusan.dev/api?username=ahusan&amp;show_icons=true&theme=aura&rank_icon=percentile&count_private=true&hide=issues" alt="GitHub Stats" width="500">
   <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
   <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
