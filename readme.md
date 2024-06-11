@@ -84,6 +84,7 @@ and software developer since __2015__.*
   <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500" alt="Streak" width="500">
 </p>
 
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25674%26project%3D%26in=0)](https://codetime.dev)
 
 ### Past Projects
 [FSM](https://fsm.mv/)\
