@@ -2,42 +2,85 @@
 
 I'm a Software Developer at SME Development Finance Corporation, passionate about building robust web applications and systems. I specialize in full-stack development and DevOps practices.
 
+## 🚀 Current Focus
+
+- Building scalable financial and travel management systems
+- Developing delivery and order management platforms
+- Implementing microservices architecture
+- Contributing to open-source projects in multiple ecosystems
+- Exploring AWS cloud-native technologies and serverless architecture
+
 ## 🛠 Skills
 
 ### Programming & Frameworks
+
 ![html](https://shields.io/badge/-html-111827?style=for-the-badge&logo=html5)
 ![css](https://shields.io/badge/-css-111827?style=for-the-badge&logo=css3)
 ![sass](https://shields.io/badge/-sass-111827?style=for-the-badge&logo=sass)
 ![bootstrap](https://shields.io/badge/-bootstrap-111827?style=for-the-badge&logo=bootstrap)
 ![tailwind](https://shields.io/badge/-tailwind-111827?style=for-the-badge&logo=tailwind-css)
 ![mantine ui](https://shields.io/badge/-mantine%20ui-111827?style=for-the-badge&logo=mantine)
+![JavaScript](https://shields.io/badge/-JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://shields.io/badge/-TypeScript-111827?style=for-the-badge&logo=typescript)
+![Python](https://shields.io/badge/-Python-111827?style=for-the-badge&logo=python)
+![PHP](https://shields.io/badge/-PHP-111827?style=for-the-badge&logo=php)
+![React](https://shields.io/badge/-React-111827?style=for-the-badge&logo=react)
+![Vue.js](https://shields.io/badge/-Vue.js-111827?style=for-the-badge&logo=vue.js)
+![Next.js](https://shields.io/badge/-Next.js-111827?style=for-the-badge&logo=next.js)
+![Node.js](https://shields.io/badge/-Node.js-111827?style=for-the-badge&logo=node.js)
+![Laravel](https://shields.io/badge/-Laravel-111827?style=for-the-badge&logo=laravel)
+![.NET](https://shields.io/badge/-.NET-111827?style=for-the-badge&logo=dotnet)
+![Material UI](https://shields.io/badge/-Material%20UI-111827?style=for-the-badge&logo=mui)
+![Redux](https://shields.io/badge/-Redux-111827?style=for-the-badge&logo=redux)
+![Express](https://shields.io/badge/-Express-111827?style=for-the-badge&logo=express)
 
 ### Databases
+
 ![mysql](https://shields.io/badge/-mysql-111827?style=for-the-badge&logo=mysql)
 ![postgres](https://shields.io/badge/-postgres-111827?style=for-the-badge&logo=postgresql)
 ![SQLite](https://shields.io/badge/-sqlite-111827?style=for-the-badge&logo=sqlite)
 ![prisma](https://shields.io/badge/-prisma-111827?style=for-the-badge&logo=prisma)
+![MongoDB](https://shields.io/badge/-MongoDB-111827?style=for-the-badge&logo=mongodb)
+![Redis](https://shields.io/badge/-Redis-111827?style=for-the-badge&logo=redis)
 
 ### DevOps & Tools
+
 ![Ubuntu](https://shields.io/badge/-ubuntu-111827?style=for-the-badge&logo=ubuntu)
 ![Linux](https://shields.io/badge/-linux-111827?style=for-the-badge&logo=linux)
 ![Nginx](https://shields.io/badge/-nginx-111827?style=for-the-badge&logo=nginx)
 ![postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
 ![JWT](https://shields.io/badge/-jwt-111827?style=for-the-badge&logo=json-web-tokens)
+![Docker](https://shields.io/badge/-Docker-111827?style=for-the-badge&logo=docker)
+![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon-web-services)
+![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge)
+![Digital Ocean](https://shields.io/badge/-Digital%20Ocean-111827?style=for-the-badge&logo=digitalocean)
+![Vercel](https://shields.io/badge/-Vercel-111827?style=for-the-badge&logo=vercel)
+![Cloudflare](https://shields.io/badge/-Cloudflare-111827?style=for-the-badge&logo=cloudflare)
+![GitHub Actions](https://shields.io/badge/-GitHub%20Actions-111827?style=for-the-badge&logo=github-actions)
+![CI/CD](https://shields.io/badge/-CI%2FCD-111827?style=for-the-badge&logo=github)
 
 ### Technical Expertise
+
 ![Team Management](https://shields.io/badge/-Team%20Management-111827?style=for-the-badge)
 ![Networking](https://shields.io/badge/-Networking-111827?style=for-the-badge)
 ![DB administration](https://shields.io/badge/-DB%20administration-111827?style=for-the-badge&logo=mysql&logoColor=white)
 ![Server Management](https://shields.io/badge/-Server%20Management-111827?style=for-the-badge&logo=linux)
 
 ## 🔭 Past Projects
-- [FSM](https://fsm.mv/) - Food Service Management System
-- [Travgo Maldives](https://travgomaldives.com/) - Travel and Tourism Platform
-- [Matcon Maldives](https://matcon.mv/) - Construction Company Website
-- [Bespoke Maldives](https://bespoke-main.web.app/) - Custom Solutions Platform
+
+- [FSM](https://fsm.mv/) - Fuel Supply Maldives Website (React, .Net)
+- [Travgo Maldives](https://travgomaldives.com/) - Travel and Tourism Platform (React, Firebase)
+- [Matcon Maldives](https://matcon.mv/) - Construction Company Website (Next.js)
+- [Bespoke Maldives](https://bespoke-main.web.app/) - Custom Event Platform (Next.js)
+- Order Management System - Food Delivery Platform (Laravel, Vue.js)
+- Travel Booking System - Multi-vendor Travel Platform (Laravel, Next.js)
+- Ground Handling System - Guest services platform (Next.js, Fast API - Python)
+- Inventory Management System - Stock management solution (React, Node.js)
+- School Management System - Educational institution platform (Laravel)
+- HR Management System - Employee management solution (React, Node.js)
 
 ## 📫 How to Reach Me
+
 - **Email:** email@ahusan.dev
 - **Phone:** +9609855168
 - **LinkedIn:** [ahusan](https://www.linkedin.com/in/ahusan/)
@@ -52,3 +95,93 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 </p>
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25674%26project%3D%26in=0)](https://codetime.dev)
+
+## 🎯 Notable Achievements
+
+- Led the development of FSM website, improving user engagement by 45%
+- Implemented CI/CD pipelines with GitHub Actions, reducing deployment time by 70%
+- Optimized database queries and API endpoints, improving system performance by 40%
+- Successfully managed and delivered major projects while maintaining zero downtime
+- Reduced infrastructure costs by 30% through cloud optimization
+
+## 🌱 Current Learning Goals
+
+- Advanced AWS Services
+- Kubernetes
+- GraphQL
+- Microservices Architecture
+
+## 💼 Professional Experience
+
+### SME Development Finance Corporation
+
+**Software Developer** | July 2023 - Present
+
+- Developing and maintaining applications using Remix JS and React
+- Building responsive UIs with Tailwind CSS and Mantine UI
+- Implementing REST APIs and database management with Prisma ORM
+- Working with Amazon OCR for document processing
+- Managing deployments using Docker, Vercel, and PostgreSQL
+- Collaborating through GitHub for version control
+
+### Bank of Maldives
+
+**Information Systems Engineer** | June 2020 - July 2023
+
+- Developed and maintained enterprise applications using Laravel and Vue.js
+- Managed cloud infrastructure on Digital Ocean and Azure
+- Implemented DevOps practices with Docker and Portainer
+- Handled database administration with MS SQL Server
+- Provided technical support and bug fixing
+- Collaborated using Bitbucket for version control
+
+### Waste Management Corporation
+
+**Information Technology Technician** | Aug 2017 - June 2020
+
+- Managed network infrastructure and database administration
+- Developed solutions using PHP and JavaScript
+- Handled cloud services on AWS, Digital Ocean, and Google Cloud
+- Provided technical support and server management
+- Maintained GitHub Pages deployments
+
+### Villa College
+
+**Information Technology Support** | Feb 2016 - Aug 2017
+
+- Provided comprehensive IT support to staff and clients
+- Managed network infrastructure and servers
+- Handled database administration
+- Delivered technical support services
+
+## 🎓 Education
+
+- Bachelor's Degree in Computer Science, Maldives National University (2017 - 2020)
+- Diploma in Information Technology, Maldives National University (2013 - 2015)
+
+## 🔭 Recent Projects
+
+- [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
+- [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
+- [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
+- [Matcon Maldives](https://matcon.mv/) - Company website (Next.js, React, Firebase)
+- [Bespoke Maldives](https://bespoke-main.web.app/) - Event platform (Next.js, Firebase, Vercel)
+- Matcon Mail Migration - Google Workspace implementation
+- MCG Networking - Complete network infrastructure setup
+
+## �� Portfolio
+
+- Check out my Portforlio: [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
+- Check out my personal website: [ahusan.dev](https://ahusan.dev)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Add your blog posts here or integrate with a GitHub action -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Open to
+
+- Collaboration on interesting projects
+- Mentoring opportunities
+- Technical consulting
