@@ -66,18 +66,21 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ![DB administration](https://shields.io/badge/-DB%20administration-111827?style=for-the-badge&logo=mysql&logoColor=white)
 ![Server Management](https://shields.io/badge/-Server%20Management-111827?style=for-the-badge&logo=linux)
 
-## 🔭 Past Projects
+## 🔭 Projects
 
-- [FSM](https://fsm.mv/) - Fuel Supply Maldives Website (React, .Net)
-- [Travgo Maldives](https://travgomaldives.com/) - Travel and Tourism Platform (React, Firebase)
-- [Matcon Maldives](https://matcon.mv/) - Construction Company Website (Next.js)
-- [Bespoke Maldives](https://bespoke-main.web.app/) - Custom Event Platform (Next.js)
+- [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
+- [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
+- [Matcon Maldives](https://matcon.mv/) - Company website (Next.js, React, Firebase)
+- [Bespoke Maldives](https://bespoke-main.web.app/) - Event platform (Next.js, Firebase, Vercel)
+- [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
 - Order Management System - Food Delivery Platform (Laravel, Vue.js)
 - Travel Booking System - Multi-vendor Travel Platform (Laravel, Next.js)
 - Ground Handling System - Guest services platform (Next.js, Fast API - Python)
 - Inventory Management System - Stock management solution (React, Node.js)
 - School Management System - Educational institution platform (Laravel)
 - HR Management System - Employee management solution (React, Node.js)
+- Matcon Mail Migration - Google Workspace implementation
+- MCG Networking - Complete network infrastructure setup
 
 ## 📫 How to Reach Me
 
@@ -169,7 +172,7 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 - Matcon Mail Migration - Google Workspace implementation
 - MCG Networking - Complete network infrastructure setup
 
-## �� Portfolio
+## 🎓 Portfolio
 
 - Check out my Portforlio: [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
 - Check out my personal website: [ahusan.dev](https://ahusan.dev)
