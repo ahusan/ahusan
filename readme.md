@@ -175,6 +175,7 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ## 🎓 Portfolio
 
 - Check out my Portforlio: [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
+- Check out my Blog: [https://blog.ahusan.dev](https://blog.ahusan.dev)
 - Check out my personal website: [ahusan.dev](https://ahusan.dev)
 
 ## 📝 Latest Blog Posts
