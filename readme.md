@@ -67,25 +67,25 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ![Server Management](https://shields.io/badge/-Server%20Management-111827?style=for-the-badge&logo=linux)
 
 ### Certifications & Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ebd9a819-d9d2-4e4c-b701-5a8b8788eb81" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<p align="left">
+  <a href="https://www.credly.com/badges/ebd9a819-d9d2-4e4c-b701-5a8b8788eb81/public_url">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/6950660b-13cb-4a6a-83b8-9aa54f185b44/public_url">
+    <img src="https://images.credly.com/size/680x680/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob" alt="IBM Data Science Methodologies" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/9c9959a5-c61d-4630-8a35-437cb940c315/public_url">
+    <img src="https://images.credly.com/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob" alt="IBM Data Science Foundations - Level 1" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/ebf7afa1-ac12-4d85-b3f3-16d791c8d421/public_url">
+    <img src="https://images.credly.com/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="110" height="110"/>
+  </a>
+</p>
 
+![Cisco CCNA](https://shields.io/badge/-Cisco%20CCNA-111827?style=for-the-badge&logo=cisco)
 
-## 🔭 Projects
-
-- [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
-- [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
-- [Matcon Maldives](https://matcon.mv/) - Company website (Next.js, React, Firebase)
-- [Bespoke Maldives](https://bespoke-main.web.app/) - Event platform (Next.js, Firebase, Vercel)
-- [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
-- Order Management System - Food Delivery Platform (Laravel, Vue.js)
-- Travel Booking System - Multi-vendor Travel Platform (Laravel, Next.js)
-- Ground Handling System - Guest services platform (Next.js, Fast API - Python)
-- Inventory Management System - Stock management solution (React, Node.js)
-- School Management System - Educational institution platform (Laravel)
-- HR Management System - Employee management solution (React, Node.js)
-- Matcon Mail Migration - Google Workspace implementation
-- MCG Networking - Complete network infrastructure setup
+[My Credly Profile](https://www.credly.com/users/ahusan)
 
 ## 📫 How to Reach Me
 
@@ -176,18 +176,18 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 - [Bespoke Maldives](https://bespoke-main.web.app/) - Event platform (Next.js, Firebase, Vercel)
 - Matcon Mail Migration - Google Workspace implementation
 - MCG Networking - Complete network infrastructure setup
+- Order Management System - Food Delivery Platform (Laravel, Vue.js)
+- Travel Booking System - Multi-vendor Travel Platform (Laravel, Next.js)
+- Ground Handling System - Guest services platform (Next.js, Fast API - Python)
+- Inventory Management System - Stock management solution (React, Node.js)
+- School Management System - Educational institution platform (Laravel)
+- HR Management System - Employee management solution (React, Node.js)
 
 ## 🎓 Portfolio
 
 - Check out my Portforlio: [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
 - Check out my Blog: [https://blog.ahusan.dev](https://blog.ahusan.dev)
 - Check out my personal website: [ahusan.dev](https://ahusan.dev)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here or integrate with a GitHub action -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Open to
 
