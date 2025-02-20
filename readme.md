@@ -81,6 +81,9 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
   <a href="https://www.credly.com/badges/ebf7afa1-ac12-4d85-b3f3-16d791c8d421/public_url">
     <img src="https://images.credly.com/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" alt="Docker Essentials: A Developer Introduction" width="110" height="110"/>
   </a>
+  <a href="https://www.credly.com/badges/d9c7a312-5ae3-476b-86ee-0efd900cba5b/public_url">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="110" height="110"/>
+  </a>
 </p>
 
 ![Cisco CCNA](https://shields.io/badge/-Cisco%20CCNA-111827?style=for-the-badge&logo=cisco)
