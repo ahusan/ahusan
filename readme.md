@@ -66,6 +66,11 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ![DB administration](https://shields.io/badge/-DB%20administration-111827?style=for-the-badge&logo=mysql&logoColor=white)
 ![Server Management](https://shields.io/badge/-Server%20Management-111827?style=for-the-badge&logo=linux)
 
+### Certifications & Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ebd9a819-d9d2-4e4c-b701-5a8b8788eb81" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 ## 🔭 Projects
 
 - [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
