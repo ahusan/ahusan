@@ -101,8 +101,8 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 
 <p align="center">
   <img src="https://readme.ahusan.dev/api?username=ahusan&show_icons=true&theme=aura&rank_icon=percentile&count_private=true" alt="GitHub Stats" width="500">
-  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&layout=compact&theme=aura&langs_count=10" alt="GitHub Top Languages" width="500">
-<img src="https://streak-stats.demolab.com?user=ahusan&theme=rose&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="500" />
+  <img src="https://readme.ahusan.dev/api/top-langs/?username=ahusan&theme=aura" alt="GitHub Top Languages" width="500">
+<img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="500" />
 </p>
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25674%26project%3D%26in=0)](https://codetime.dev)
