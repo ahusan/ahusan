@@ -5,9 +5,6 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ## 🚀 Current Focus
 
 - Building scalable financial and travel management systems
-- Developing delivery and order management platforms
-- Implementing microservices architecture
-- Contributing to open-source projects in multiple ecosystems
 - Exploring AWS cloud-native technologies and serverless architecture
 
 ## 🛠 Skills
@@ -107,63 +104,6 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25674%26project%3D%26in=0)](https://codetime.dev)
 
-## 🎯 Notable Achievements
-
-- Led the development of FSM website, improving user engagement by 45%
-- Implemented CI/CD pipelines with GitHub Actions, reducing deployment time by 70%
-- Optimized database queries and API endpoints, improving system performance by 40%
-- Successfully managed and delivered major projects while maintaining zero downtime
-- Reduced infrastructure costs by 30% through cloud optimization
-
-## 🌱 Current Learning Goals
-
-- Advanced AWS Services
-- Kubernetes
-- GraphQL
-- Microservices Architecture
-
-## 💼 Professional Experience
-
-### SME Development Finance Corporation
-
-**Software Developer** | July 2023 - Present
-
-- Developing and maintaining applications using Remix JS and React
-- Building responsive UIs with Tailwind CSS and Mantine UI
-- Implementing REST APIs and database management with Prisma ORM
-- Working with Amazon OCR for document processing
-- Managing deployments using Docker, Vercel, and PostgreSQL
-- Collaborating through GitHub for version control
-
-### Bank of Maldives
-
-**Information Systems Engineer** | June 2020 - July 2023
-
-- Developed and maintained enterprise applications using Laravel and Vue.js
-- Managed cloud infrastructure on Digital Ocean and Azure
-- Implemented DevOps practices with Docker and Portainer
-- Handled database administration with MS SQL Server
-- Provided technical support and bug fixing
-- Collaborated using Bitbucket for version control
-
-### Waste Management Corporation
-
-**Information Technology Technician** | Aug 2017 - June 2020
-
-- Managed network infrastructure and database administration
-- Developed solutions using PHP and JavaScript
-- Handled cloud services on AWS, Digital Ocean, and Google Cloud
-- Provided technical support and server management
-- Maintained GitHub Pages deployments
-
-### Villa College
-
-**Information Technology Support** | Feb 2016 - Aug 2017
-
-- Provided comprehensive IT support to staff and clients
-- Managed network infrastructure and servers
-- Handled database administration
-- Delivered technical support services
 
 ## 🎓 Education
 
@@ -172,6 +112,7 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 
 ## 🔭 Recent Projects
 
+- [Maldives.com](https://maldives.com) - Maintainer and Developer (NextJs, Strapi, Graphql, Tailwind, Postgres, AWS)
 - [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
 - [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
 - [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
