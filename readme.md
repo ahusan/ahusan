@@ -97,8 +97,8 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme.ahusan.dev/api?username=ahusan&show_icons=true&theme=aura&rank_icon=percentile&count_private=true" alt="GitHub Stats" width="500">
-  <img src="https://readme.ahusan.dev/api/top-langs?username=ahusan&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&show_icons=true&theme=aura" alt="GitHub Top Languages" width="500">
+  <img src="https://readme.ahusan.dev/api?username=ahusan&show_icons=true&theme=aura&count_private=true&show=reviews" alt="GitHub Stats" width="500">
+  <img src="https://readme.ahusan.dev/api/top-langs?username=ahusan&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=aura" alt="GitHub Top Languages" width="500">
 <img src="https://streak-stats.demolab.com?user=ahusan&theme=aura&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" width="500" />
 </p>
 
