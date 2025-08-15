@@ -81,6 +81,9 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
   <a href="https://www.credly.com/badges/d9c7a312-5ae3-476b-86ee-0efd900cba5b/public_url">
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="110" height="110"/>
   </a>
+  <a href="https://www.credly.com/badges/3bd675e6-6a74-4334-a1c8-cd68e30dc713/public_url">
+    <img src="https://images.credly.com/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 1" width="110" height="110"/>
+  </a>
 </p>
 
 ![Cisco CCNA](https://shields.io/badge/-Cisco%20CCNA-111827?style=for-the-badge&logo=cisco)
@@ -102,7 +105,7 @@ I'm a Software Developer at SME Development Finance Corporation, passionate abou
   <img src="https://github-profile-trophy.vercel.app/?username=ahusan&theme=aura&rank=-?" alt="Github Trophies" width="900" />
 </p>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25674%26project%3D%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674)](https://codetime.dev)
 
 
 ## 🎓 Education
