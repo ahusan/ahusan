@@ -1,6 +1,6 @@
 # Hi there, I'm Ahusan Mohamed! 👋
 
-I'm a Software Developer at SME Development Finance Corporation, passionate about building robust web applications and systems. I specialize in full-stack development and DevOps practices.
+I'm a Senior Developer at Allied Maldives, passionate about building robust web applications and systems. I specialize in full-stack development and DevOps practices.
 
 ## 🚀 Current Focus
 
