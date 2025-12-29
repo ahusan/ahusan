@@ -103,6 +103,7 @@ I'm a Senior Developer at Allied Maldives, passionate about building robust web 
   <img src="https://readme.ahusan.dev/api?username=ahusan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true" alt="GitHub Stats" width="500">
   <img src="https://readme.ahusan.dev/api/top-langs?username=ahusan&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=aura" alt="GitHub Top Languages" width="500">
   <img src="https://github-profile-trophy.vercel.app/?username=ahusan&theme=aura&rank=-?" alt="Github Trophies" width="900" />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahusan/ebf21d26-a715-4f10-b264-56727d113204.png" /></a>
 </p>
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674)](https://codetime.dev)
