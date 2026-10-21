@@ -106,7 +106,7 @@ I'm a Senior Developer at Allied Maldives, passionate about building robust web 
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahusan/ebf21d26-a715-4f10-b264-56727d113204.png" /></a>
 </p>
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674)](https://codetime.dev)
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=10b981&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674%26label_color%3D166534)](https://codetime.dev)
 
 
 ## 🎓 Education
