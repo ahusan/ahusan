@@ -1,6 +1,6 @@
 # Hi, I'm Ahusan
 
-I'm a senior software engineer in Male', Maldives. By day I build workflow systems for insurance at Allied Insurance Company of the Maldives, mostly in Next.js and TypeScript. Through my company, [Tide Trek](https://tidetrek.dev), I build software for financial services and hospitality clients. I'm also Head of IT, part-time, at Lets Go Maldives (LGM) Group, a destination management company.
+I'm a senior software engineer in Male', Maldives. By day I build workflow systems for insurance at Allied Insurance Company of the Maldives, in Next.js, TypeScript and Laravel. Through my company, [Tide Trek](https://tidetrek.dev), I build software for financial services and hospitality clients. I'm also Head of IT, part-time, at Lets Go Maldives (LGM) Group, a destination management company.
 
 Most of my career has been in financial services: Bank of Maldives, then SDFC (SME Development Finance Corporation), then Allied. I like owning the whole thing, from the database to the box it runs on.
 
@@ -35,6 +35,8 @@ I've also built a run of business systems over the years: order management, trav
 ![FastAPI](https://shields.io/badge/-FastAPI-111827?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://shields.io/badge/-PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 ![Docker](https://shields.io/badge/-Docker-111827?style=for-the-badge&logo=docker)
+![Laravel](https://shields.io/badge/-Laravel-111827?style=for-the-badge&logo=laravel)
+![PHP](https://shields.io/badge/-PHP-111827?style=for-the-badge&logo=php)
 ![Tailwind](https://shields.io/badge/-Tailwind-111827?style=for-the-badge&logo=tailwind-css)
 
 **Infra**
@@ -52,7 +54,7 @@ I've also built a run of business systems over the years: order management, trav
 
 Cloudflare here means DNS, Tunnels and R2.
 
-**Also worked with:** Node.js, Express, Laravel/PHP, .NET, Vue.js, Redux, Bootstrap, Sass, Material UI, Mantine, Redis, MySQL, SQLite, Prisma, MongoDB, SQLModel, React Router v7, Strapi, Rust, AWS, Azure, DigitalOcean, Vercel.
+**Also worked with:** Node.js, Express, .NET, Vue.js, Redux, Bootstrap, Sass, Material UI, Mantine, Redis, MySQL, SQLite, Prisma, MongoDB, SQLModel, React Router v7, Strapi, Rust, AWS, Azure, DigitalOcean, Vercel.
 
 **Tooling:** Neovim (LazyVim), WezTerm, WSL2, Zsh, Jujutsu (jj), Claude Code.
 
