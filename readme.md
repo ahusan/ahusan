@@ -16,9 +16,11 @@ Most of my career has been in financial services: Bank of Maldives, then SDFC (S
 - **[Mullion](https://github.com/ahusan/mullion)**: modular Windows system toolkit in native Rust. Clipboard history, per-app volume mixer, window snapping, screenshots and a WSL monitor, all from the tray.
 - **Homelab**: Proxmox and Docker Swarm, three-path ingress (WireGuard, Caddy, Cloudflare Tunnel), Prometheus/Grafana/Uptime Kuma monitoring, self-hosted CI/CD on Forgejo.
 - **Telegram bots**: a METAR weather-change notifier for VRMM (Male' airport) and a multi-leg flight journey tracker on AviationStack.
-- **[sdfc.mv](https://sdfc.mv/)**: website redesign for SME Development Finance Corporation.
 
-**Past:** [Maldives.com](https://maldives.com), developer and maintainer (Next.js, Strapi, GraphQL, Tailwind, PostgreSQL, AWS).
+**Past:**
+
+- [Maldives.com](https://maldives.com): developer and maintainer (Next.js, Strapi, GraphQL, Tailwind, PostgreSQL, AWS).
+- SDFC website: built and redesigned while I was at SDFC (SME Development Finance Corporation). It now runs as [SME Digital](https://smedigital.mv), still on my codebase.
 
 **Client work:** [FSM](https://fsm.mv/), [Travgo Maldives](https://travgomaldives.com/), [Matcon Maldives](https://matcon.mv/), [Bespoke Maldives](https://bespoke-main.web.app/).
 
