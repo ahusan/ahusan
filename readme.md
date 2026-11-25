@@ -1,6 +1,6 @@
 # Hi, I'm Ahusan
 
-I'm a senior developer in Malé, Maldives. By day I build workflow systems for insurance at Allied Insurance Company of the Maldives, mostly in Next.js and TypeScript. Through my company, [Tide Trek](https://tidetrek.dev), I build software for financial services and hospitality clients. I'm also Head of IT, part-time, at Lets Go Maldives (LGM) Group, a destination management company.
+I'm a senior software engineer in Male', Maldives. By day I build workflow systems for insurance at Allied Insurance Company of the Maldives, mostly in Next.js and TypeScript. Through my company, [Tide Trek](https://tidetrek.dev), I build software for financial services and hospitality clients. I'm also Head of IT, part-time, at Lets Go Maldives (LGM) Group, a destination management company.
 
 Most of my career has been in financial services: Bank of Maldives, then SDFC (SME Development Finance Corporation), then Allied. I like owning the whole thing, from the database to the box it runs on.
 
@@ -14,7 +14,7 @@ Most of my career has been in financial services: Bank of Maldives, then SDFC (S
 
 - **[gym.ahusan.dev](https://gym.ahusan.dev)**: full-stack SaaS training platform. Next.js, FastAPI, PostgreSQL, Docker. Ships as a PWA behind a Cloudflare Tunnel.
 - **Homelab**: Proxmox and Docker Swarm, three-path ingress (WireGuard, Caddy, Cloudflare Tunnel), Prometheus/Grafana/Uptime Kuma monitoring, self-hosted CI/CD on Forgejo.
-- **Telegram bots**: a METAR weather-change notifier for VRMM (Malé airport) and a multi-leg flight journey tracker on AviationStack.
+- **Telegram bots**: a METAR weather-change notifier for VRMM (Male' airport) and a multi-leg flight journey tracker on AviationStack.
 - **[sdfc.mv](https://sdfc.mv/)**: website redesign for SME Development Finance Corporation.
 
 **Past:** [Maldives.com](https://maldives.com), developer and maintainer (Next.js, Strapi, GraphQL, Tailwind, PostgreSQL, AWS).
