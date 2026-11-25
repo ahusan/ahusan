@@ -116,7 +116,6 @@ I'm a Senior Developer at Allied Maldives, passionate about building robust web 
 
 ## 🔭 Recent Projects
 
-- [Maldives.com](https://maldives.com) - Maintainer and Developer (NextJs, Strapi, Graphql, Tailwind, Postgres, AWS)
 - [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
 - [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
 - [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
