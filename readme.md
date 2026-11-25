@@ -1,69 +1,63 @@
-# Hi there, I'm Ahusan Mohamed! 👋
+# Hi, I'm Ahusan
 
-I'm a Senior Developer at Allied Maldives, passionate about building robust web applications and systems. I specialize in full-stack development and DevOps practices.
+I'm a senior developer in Malé, Maldives. By day I build workflow systems for insurance at Allied Insurance Company of the Maldives, mostly in Next.js and TypeScript. Through my company, [Tide Trek](https://tidetrek.dev), I build software for financial services and hospitality clients. I'm also Head of IT, part-time, at Lets Go Maldives (LGM) Group, a destination management company.
 
-## 🚀 Current Focus
+Most of my career has been in financial services: Bank of Maldives, then SDFC (SME Development Finance Corporation), then Allied. I like owning the whole thing, from the database to the box it runs on.
 
-- Building scalable financial and travel management systems
-- Exploring AWS cloud-native technologies and serverless architecture
+## Current focus
 
-## 🛠 Skills
+- Workflow and operations platforms for financial services (Next.js, TypeScript, PostgreSQL)
+- Travel and hospitality systems: booking, procurement, back-office integrations
+- Self-hosted infrastructure: Proxmox, Docker Swarm, Cloudflare Tunnels, WireGuard, Prometheus and Grafana
 
-### Programming & Frameworks
+## Projects
 
-![html](https://shields.io/badge/-html-111827?style=for-the-badge&logo=html5)
-![css](https://shields.io/badge/-css-111827?style=for-the-badge&logo=css3)
-![sass](https://shields.io/badge/-sass-111827?style=for-the-badge&logo=sass)
-![bootstrap](https://shields.io/badge/-bootstrap-111827?style=for-the-badge&logo=bootstrap)
-![tailwind](https://shields.io/badge/-tailwind-111827?style=for-the-badge&logo=tailwind-css)
-![mantine ui](https://shields.io/badge/-mantine%20ui-111827?style=for-the-badge&logo=mantine)
-![JavaScript](https://shields.io/badge/-JavaScript-111827?style=for-the-badge&logo=javascript)
+- **[gym.ahusan.dev](https://gym.ahusan.dev)**: full-stack SaaS training platform. Next.js, FastAPI, PostgreSQL, Docker. Ships as a PWA behind a Cloudflare Tunnel.
+- **Homelab**: Proxmox and Docker Swarm, three-path ingress (WireGuard, Caddy, Cloudflare Tunnel), Prometheus/Grafana/Uptime Kuma monitoring, self-hosted CI/CD on Forgejo.
+- **Telegram bots**: a METAR weather-change notifier for VRMM (Malé airport) and a multi-leg flight journey tracker on AviationStack.
+- **[sdfc.mv](https://sdfc.mv/)**: website redesign for SME Development Finance Corporation.
+
+**Past:** [Maldives.com](https://maldives.com), developer and maintainer (Next.js, Strapi, GraphQL, Tailwind, PostgreSQL, AWS).
+
+**Client work:** [FSM](https://fsm.mv/), [Travgo Maldives](https://travgomaldives.com/), [Matcon Maldives](https://matcon.mv/), [Bespoke Maldives](https://bespoke-main.web.app/).
+
+I've also built a run of business systems over the years: order management, travel booking, ground handling, inventory, school and HR management, plus mail migrations and network setups.
+
+## Skills
+
+**Daily**
+
 ![TypeScript](https://shields.io/badge/-TypeScript-111827?style=for-the-badge&logo=typescript)
-![Python](https://shields.io/badge/-Python-111827?style=for-the-badge&logo=python)
-![PHP](https://shields.io/badge/-PHP-111827?style=for-the-badge&logo=php)
-![React](https://shields.io/badge/-React-111827?style=for-the-badge&logo=react)
-![Vue.js](https://shields.io/badge/-Vue.js-111827?style=for-the-badge&logo=vue.js)
 ![Next.js](https://shields.io/badge/-Next.js-111827?style=for-the-badge&logo=next.js)
-![Node.js](https://shields.io/badge/-Node.js-111827?style=for-the-badge&logo=node.js)
-![Laravel](https://shields.io/badge/-Laravel-111827?style=for-the-badge&logo=laravel)
-![.NET](https://shields.io/badge/-.NET-111827?style=for-the-badge&logo=dotnet)
-![Material UI](https://shields.io/badge/-Material%20UI-111827?style=for-the-badge&logo=mui)
-![Redux](https://shields.io/badge/-Redux-111827?style=for-the-badge&logo=redux)
-![Express](https://shields.io/badge/-Express-111827?style=for-the-badge&logo=express)
-
-### Databases
-
-![mysql](https://shields.io/badge/-mysql-111827?style=for-the-badge&logo=mysql)
-![postgres](https://shields.io/badge/-postgres-111827?style=for-the-badge&logo=postgresql)
-![SQLite](https://shields.io/badge/-sqlite-111827?style=for-the-badge&logo=sqlite)
-![prisma](https://shields.io/badge/-prisma-111827?style=for-the-badge&logo=prisma)
-![MongoDB](https://shields.io/badge/-MongoDB-111827?style=for-the-badge&logo=mongodb)
-![Redis](https://shields.io/badge/-Redis-111827?style=for-the-badge&logo=redis)
-
-### DevOps & Tools
-
-![Ubuntu](https://shields.io/badge/-ubuntu-111827?style=for-the-badge&logo=ubuntu)
-![Linux](https://shields.io/badge/-linux-111827?style=for-the-badge&logo=linux)
-![Nginx](https://shields.io/badge/-nginx-111827?style=for-the-badge&logo=nginx)
-![postman](https://shields.io/badge/-postman-111827?style=for-the-badge&logo=postman)
-![JWT](https://shields.io/badge/-jwt-111827?style=for-the-badge&logo=json-web-tokens)
+![React](https://shields.io/badge/-React-111827?style=for-the-badge&logo=react)
+![Python](https://shields.io/badge/-Python-111827?style=for-the-badge&logo=python)
+![FastAPI](https://shields.io/badge/-FastAPI-111827?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://shields.io/badge/-PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 ![Docker](https://shields.io/badge/-Docker-111827?style=for-the-badge&logo=docker)
-![AWS](https://shields.io/badge/-AWS-111827?style=for-the-badge&logo=amazon-web-services)
-![Azure](https://shields.io/badge/-Azure-111827?style=for-the-badge)
-![Digital Ocean](https://shields.io/badge/-Digital%20Ocean-111827?style=for-the-badge&logo=digitalocean)
-![Vercel](https://shields.io/badge/-Vercel-111827?style=for-the-badge&logo=vercel)
+![Tailwind](https://shields.io/badge/-Tailwind-111827?style=for-the-badge&logo=tailwind-css)
+
+**Infra**
+
+![Proxmox](https://shields.io/badge/-Proxmox-111827?style=for-the-badge&logo=proxmox)
+![Docker Swarm](https://shields.io/badge/-Docker%20Swarm-111827?style=for-the-badge&logo=docker)
 ![Cloudflare](https://shields.io/badge/-Cloudflare-111827?style=for-the-badge&logo=cloudflare)
+![nginx](https://shields.io/badge/-nginx-111827?style=for-the-badge&logo=nginx)
+![Caddy](https://shields.io/badge/-Caddy-111827?style=for-the-badge&logo=caddy)
+![WireGuard](https://shields.io/badge/-WireGuard-111827?style=for-the-badge&logo=wireguard)
+![Prometheus](https://shields.io/badge/-Prometheus-111827?style=for-the-badge&logo=prometheus)
+![Grafana](https://shields.io/badge/-Grafana-111827?style=for-the-badge&logo=grafana)
+![Linux](https://shields.io/badge/-Linux-111827?style=for-the-badge&logo=linux)
 ![GitHub Actions](https://shields.io/badge/-GitHub%20Actions-111827?style=for-the-badge&logo=github-actions)
-![CI/CD](https://shields.io/badge/-CI%2FCD-111827?style=for-the-badge&logo=github)
 
-### Technical Expertise
+Cloudflare here means DNS, Tunnels and R2.
 
-![Team Management](https://shields.io/badge/-Team%20Management-111827?style=for-the-badge)
-![Networking](https://shields.io/badge/-Networking-111827?style=for-the-badge)
-![DB administration](https://shields.io/badge/-DB%20administration-111827?style=for-the-badge&logo=mysql&logoColor=white)
-![Server Management](https://shields.io/badge/-Server%20Management-111827?style=for-the-badge&logo=linux)
+**Also worked with:** Node.js, Express, Laravel/PHP, Vue.js, Redis, MySQL, SQLite, Prisma, MongoDB, SQLModel, React Router v7, Strapi, AWS, DigitalOcean, Vercel.
 
-### Certifications & Badges
+**Tooling:** Neovim (LazyVim), WezTerm, WSL2, Zsh, Jujutsu (jj), Claude Code.
+
+**Beyond code:** team management, networking, database administration, server management.
+
+## Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/ebd9a819-d9d2-4e4c-b701-5a8b8788eb81/public_url">
@@ -90,54 +84,32 @@ I'm a Senior Developer at Allied Maldives, passionate about building robust web 
 
 [My Credly Profile](https://www.credly.com/users/ahusan)
 
-## 📫 How to Reach Me
-
-- **Email:** email@ahusan.dev
-- **Phone:** +9609855168
-- **LinkedIn:** [ahusan](https://www.linkedin.com/in/ahusan/)
-- **GitHub:** [ahusan](https://github.com/ahusan)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme.ahusan.dev/api?username=ahusan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true" alt="GitHub Stats" width="500">
-  <img src="https://readme.ahusan.dev/api/top-langs?username=ahusan&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=aura" alt="GitHub Top Languages" width="500">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahusan&theme=aura&rank=-?" alt="Github Trophies" width="900" />
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahusan/ebf21d26-a715-4f10-b264-56727d113204.png" /></a>
-</p>
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=10b981&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674%26label_color%3D166534)](https://codetime.dev)
-
-
-## 🎓 Education
+## Education
 
 - Bachelor's Degree in Computer Science, Maldives National University (2017 - 2020)
 - Diploma in Information Technology, Maldives National University (2013 - 2015)
 
-## 🔭 Recent Projects
-
-- [FSM Website](https://fsm.mv/) - Company rebrand website (React, .NET, Tailwind, Docker, Azure)
-- [Travgo Maldives](https://travgomaldives.com/) - Tourism platform (React, Firebase, Tailwind)
-- [Ecommerce Platform](/) - Delivery management system (React, FastAPI, PostgreSQL, Python)
-- [Matcon Maldives](https://matcon.mv/) - Company website (Next.js, React, Firebase)
-- [Bespoke Maldives](https://bespoke-main.web.app/) - Event platform (Next.js, Firebase, Vercel)
-- Matcon Mail Migration - Google Workspace implementation
-- MCG Networking - Complete network infrastructure setup
-- Order Management System - Food Delivery Platform (Laravel, Vue.js)
-- Travel Booking System - Multi-vendor Travel Platform (Laravel, Next.js)
-- Ground Handling System - Guest services platform (Next.js, Fast API - Python)
-- Inventory Management System - Stock management solution (React, Node.js)
-- School Management System - Educational institution platform (Laravel)
-- HR Management System - Employee management solution (React, Node.js)
-
-## 🎓 Portfolio
-
-- Check out my Portforlio: [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
-- Check out my Blog: [https://blog.ahusan.dev](https://blog.ahusan.dev)
-- Check out my personal website: [ahusan.dev](https://ahusan.dev)
-
-## 🤝 Open to
+## Open to
 
 - Collaboration on interesting projects
-- Mentoring opportunities
-- Technical consulting
+- Technical consulting, through [Tide Trek](https://tidetrek.dev)
+- Remote contract work outside the Maldives
+
+## How to reach me
+
+- **Email:** email@ahusan.dev
+- **LinkedIn:** [ahusan](https://www.linkedin.com/in/ahusan/)
+- **GitHub:** [ahusan](https://github.com/ahusan)
+- **Portfolio:** [portfolio.ahusan.dev](https://portfolio.ahusan.dev)
+- **Blog:** [blog.ahusan.dev](https://blog.ahusan.dev)
+- **Website:** [ahusan.dev](https://ahusan.dev)
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://readme.ahusan.dev/api?username=ahusan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura&show_icons=true" alt="GitHub Stats" width="500">
+  <img src="https://readme.ahusan.dev/api/top-langs?username=ahusan&langs_count=20&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=aura" alt="GitHub Top Languages" width="500">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahusan/ebf21d26-a715-4f10-b264-56727d113204.png" /></a>
+</p>
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=10b981&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D25674%26label_color%3D166534)](https://codetime.dev)
