@@ -13,6 +13,7 @@ Most of my career has been in financial services: Bank of Maldives, then SDFC (S
 ## Projects
 
 - **[gym.ahusan.dev](https://gym.ahusan.dev)**: full-stack SaaS training platform. Next.js, FastAPI, PostgreSQL, Docker. Ships as a PWA behind a Cloudflare Tunnel.
+- **[Mullion](https://github.com/ahusan/mullion)**: modular Windows system toolkit in native Rust. Clipboard history, per-app volume mixer, window snapping, screenshots and a WSL monitor, all from the tray.
 - **Homelab**: Proxmox and Docker Swarm, three-path ingress (WireGuard, Caddy, Cloudflare Tunnel), Prometheus/Grafana/Uptime Kuma monitoring, self-hosted CI/CD on Forgejo.
 - **Telegram bots**: a METAR weather-change notifier for VRMM (Male' airport) and a multi-leg flight journey tracker on AviationStack.
 - **[sdfc.mv](https://sdfc.mv/)**: website redesign for SME Development Finance Corporation.
@@ -51,7 +52,7 @@ I've also built a run of business systems over the years: order management, trav
 
 Cloudflare here means DNS, Tunnels and R2.
 
-**Also worked with:** Node.js, Express, Laravel/PHP, Vue.js, Redis, MySQL, SQLite, Prisma, MongoDB, SQLModel, React Router v7, Strapi, AWS, DigitalOcean, Vercel.
+**Also worked with:** Node.js, Express, Laravel/PHP, .NET, Vue.js, Redux, Bootstrap, Sass, Material UI, Mantine, Redis, MySQL, SQLite, Prisma, MongoDB, SQLModel, React Router v7, Strapi, Rust, AWS, Azure, DigitalOcean, Vercel.
 
 **Tooling:** Neovim (LazyVim), WezTerm, WSL2, Zsh, Jujutsu (jj), Claude Code.
 
